@@ -1,4 +1,7 @@
 {
-  "adminUser": "POGI",
-  "adminPass": "POGI"
+  "adminUser": "ADMIN",
+  "adminPass": {
+    "salt": "0f28b551a8d68c285f98a2f90e9bec2f",
+    "hash": "3580494b89571ce51e11d53e8c60fb5b5ea705fd40971dfa456f6a713b7ac158"
+  }
 }
