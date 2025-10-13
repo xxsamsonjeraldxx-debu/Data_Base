@@ -1,2 +1,9 @@
-
-
+[
+  {
+    "id": 2,
+    "role": 3,
+    "action": "Door toggled",
+    "time": "11:45:44 AM",
+    "date": "October 13, 2025"
+  }
+]
