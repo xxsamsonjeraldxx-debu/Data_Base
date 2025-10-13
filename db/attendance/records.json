@@ -12,5 +12,12 @@
     "action": "Door toggled",
     "time": "11:46:13 AM",
     "date": "October 13, 2025"
+  },
+  {
+    "id": 1,
+    "role": 2,
+    "action": "Door toggled",
+    "time": "11:59:53 AM",
+    "date": "October 13, 2025"
   }
 ]
