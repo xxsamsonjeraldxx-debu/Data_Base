@@ -33,5 +33,12 @@
     "action": "Student logged attendance",
     "time": "12:14:39 PM",
     "date": "October 13, 2025"
+  },
+  {
+    "id": 3,
+    "role": 1,
+    "action": "Student logged attendance",
+    "time": "12:14:45 PM",
+    "date": "October 13, 2025"
   }
 ]
