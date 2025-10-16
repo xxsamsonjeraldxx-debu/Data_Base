@@ -1,4 +1,8 @@
 {
+  "1": {
+    "name": "IAN TITUS RAMONES",
+    "role": "teacher"
+  },
   "2": {
     "name": "SI BAIT KO",
     "role": "guard"
@@ -6,13 +10,5 @@
   "4": {
     "name": "JERALD SAMSON",
     "role": "student"
-  },
-  "8": {
-    "name": "IAN TITUS RAMONES",
-    "role": "teacher"
-  },
-  "10": {
-    "name": "S",
-    "role": "teacher"
   }
 }
