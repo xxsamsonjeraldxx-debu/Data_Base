@@ -2,20 +2,8 @@
   {
     "id": 2,
     "name": "JERALD SAMSON",
-    "year": "1ST YEAR",
+    "year": "4TH YEAR",
     "fingerId": 4,
-    "role": "student"
-  },
-  {
-    "name": "NEIL JOHN A. FONTANILLA",
-    "year": "2ND YEAR",
-    "fingerId": 9,
-    "role": "student"
-  },
-  {
-    "name": "ZEFF BEBEKO 105",
-    "year": "1ST YEAR",
-    "fingerId": 40,
     "role": "student"
   }
 ]
