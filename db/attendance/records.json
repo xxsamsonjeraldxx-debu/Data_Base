@@ -124,5 +124,12 @@
     "action": "Student logged attendance",
     "time": "05:52:03 PM",
     "date": "October 16, 2025"
+  },
+  {
+    "id": 1,
+    "role": 2,
+    "action": "Door locked by prof/guard",
+    "time": "05:52:18 PM",
+    "date": "October 16, 2025"
   }
 ]
