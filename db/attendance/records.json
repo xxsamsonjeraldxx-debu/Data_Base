@@ -33,5 +33,12 @@
     "action": "Door unlocked by prof/guard",
     "time": "04:02:20 PM",
     "date": "October 16, 2025"
+  },
+  {
+    "id": 5,
+    "role": 1,
+    "action": "Student logged attendance",
+    "time": "04:04:19 PM",
+    "date": "October 16, 2025"
   }
 ]
