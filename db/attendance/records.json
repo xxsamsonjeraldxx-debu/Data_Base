@@ -299,5 +299,12 @@
     "action": "Student logged attendance",
     "time": "10:27:31 AM",
     "date": "October 20, 2025"
+  },
+  {
+    "id": 1,
+    "role": 2,
+    "action": "Door toggled (Prof/Guard)",
+    "time": "10:27:40 AM",
+    "date": "October 20, 2025"
   }
 ]
