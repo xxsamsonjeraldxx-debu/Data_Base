@@ -236,5 +236,12 @@
     "action": "Door toggled (Prof/Guard)",
     "time": "10:10:37 AM",
     "date": "October 20, 2025"
+  },
+  {
+    "id": 1,
+    "role": 2,
+    "action": "Door toggled (Prof/Guard)",
+    "time": "10:10:55 AM",
+    "date": "October 20, 2025"
   }
 ]
