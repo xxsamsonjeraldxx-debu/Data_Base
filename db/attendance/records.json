@@ -642,40 +642,5 @@
     "action": "Student logged attendance",
     "time": "02:07:22 PM",
     "date": "October 30, 2025"
-  },
-  {
-    "id": 1,
-    "role": 2,
-    "action": "Door unlocked by prof/guard",
-    "time": "01:12:21 PM",
-    "date": "November 01, 2025"
-  },
-  {
-    "id": 2,
-    "role": 3,
-    "action": "Door locked by prof/guard",
-    "time": "01:12:35 PM",
-    "date": "November 01, 2025"
-  },
-  {
-    "id": 1,
-    "role": 2,
-    "action": "Door unlocked by prof/guard",
-    "time": "01:15:16 PM",
-    "date": "November 01, 2025"
-  },
-  {
-    "id": 5,
-    "role": 1,
-    "action": "Student logged attendance",
-    "time": "01:15:37 PM",
-    "date": "November 01, 2025"
-  },
-  {
-    "id": 1,
-    "role": 2,
-    "action": "Door locked by prof/guard",
-    "time": "01:16:52 PM",
-    "date": "November 01, 2025"
   }
 ]
