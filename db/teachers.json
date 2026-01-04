@@ -1,8 +1,13 @@
 [
   {
     "id": 3,
-    "name": "IAN TITUS RAMONES",
+    "name": "Instr. IAN TITUS F. RAMONES",
     "fingerId": 1,
+    "role": "teacher"
+  },
+  {
+    "name": "Instr. Dycyn T. Alvaro",
+    "fingerId": 6,
     "role": "teacher"
   }
 ]
