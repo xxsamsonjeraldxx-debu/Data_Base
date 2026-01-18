@@ -1679,5 +1679,23 @@
     "year": "1st Year",
     "fingerId": 300,
     "role": "student"
+  },
+  {
+    "name": "301",
+    "year": "1st Year",
+    "fingerId": 301,
+    "role": "student"
+  },
+  {
+    "name": "302",
+    "year": "1st Year",
+    "fingerId": 302,
+    "role": "student"
+  },
+  {
+    "name": "303",
+    "year": "1st Year",
+    "fingerId": 303,
+    "role": "student"
   }
 ]
