@@ -71,5 +71,41 @@
     "year": "1st Year",
     "fingerId": 22,
     "role": "student"
+  },
+  {
+    "name": "o",
+    "year": "1st Year",
+    "fingerId": 23,
+    "role": "student"
+  },
+  {
+    "name": "p",
+    "year": "1st Year",
+    "fingerId": 24,
+    "role": "student"
+  },
+  {
+    "name": "ngjh",
+    "year": "2nd Year",
+    "fingerId": 25,
+    "role": "student"
+  },
+  {
+    "name": "jgjh",
+    "year": "1st Year",
+    "fingerId": 26,
+    "role": "student"
+  },
+  {
+    "name": "m",
+    "year": "1st Year",
+    "fingerId": 27,
+    "role": "student"
+  },
+  {
+    "name": "jghi",
+    "year": "1st Year",
+    "fingerId": 29,
+    "role": "student"
   }
 ]
