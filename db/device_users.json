@@ -3,6 +3,10 @@
     "name": " IAN TITUS F. RAMONES",
     "role": "teacher"
   },
+  "2": {
+    "name": "SI BAIT",
+    "role": "guard"
+  },
   "3": {
     "name": "JERALD SAMSON",
     "role": "student"
@@ -14,9 +18,5 @@
   "6": {
     "name": "Dycyn T. Alvaro",
     "role": "teacher"
-  },
-  "10": {
-    "name": "JUAN DELA CRUZ",
-    "role": "guard"
   }
 }
