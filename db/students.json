@@ -35,5 +35,17 @@
     "year": "1st Year",
     "fingerId": 16,
     "role": "student"
+  },
+  {
+    "name": "as",
+    "year": "3rd Year",
+    "fingerId": 66,
+    "role": "student"
+  },
+  {
+    "name": "g",
+    "year": "2nd Year",
+    "fingerId": 87,
+    "role": "student"
   }
 ]
