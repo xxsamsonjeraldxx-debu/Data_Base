@@ -17,5 +17,11 @@
     "year": "4th Year",
     "fingerId": 6,
     "role": "student"
+  },
+  {
+    "name": "ESDA",
+    "year": "1st Year",
+    "fingerId": 11,
+    "role": "student"
   }
 ]
