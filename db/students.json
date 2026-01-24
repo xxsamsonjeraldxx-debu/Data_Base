@@ -323,5 +323,35 @@
     "year": "1st Year",
     "fingerId": 61,
     "role": "student"
+  },
+  {
+    "name": "John Carlos S. Agaton",
+    "year": "2nd Year",
+    "fingerId": 62,
+    "role": "student"
+  },
+  {
+    "name": "Aprilyn E. Amador",
+    "year": "2nd Year",
+    "fingerId": 63,
+    "role": "student"
+  },
+  {
+    "name": "Eleanor Ann O. Amarillas",
+    "year": "2nd Year",
+    "fingerId": 64,
+    "role": "student"
+  },
+  {
+    "name": "Alihon A. Anca\t",
+    "year": "2nd Year",
+    "fingerId": 65,
+    "role": "student"
+  },
+  {
+    "name": "Jhon Ryan P. Anca\t",
+    "year": "2nd Year",
+    "fingerId": 66,
+    "role": "student"
   }
 ]
