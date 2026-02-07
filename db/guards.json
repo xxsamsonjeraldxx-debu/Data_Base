@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "SI BAIT",
-    "schedule": "NIGHT SHIFT",
-    "fingerId": 2,
-    "role": "guard"
-  },
-  {
     "name": "Michael Manalo",
     "fingerId": 6,
     "role": "guard"
