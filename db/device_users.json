@@ -4,15 +4,27 @@
     "role": "teacher"
   },
   "2": {
-    "name": "SI BAIT",
-    "role": "guard"
+    "name": "REYNIER JORDAN",
+    "role": "teacher"
   },
   "3": {
-    "name": "JERALD SAMSON",
-    "role": "student"
+    "name": "CHERRY ANN MENDEZ ",
+    "role": "teacher"
+  },
+  "4": {
+    "name": "DYCYN ALVARO",
+    "role": "teacher"
   },
   "6": {
     "name": "Michael Manalo",
+    "role": "guard"
+  },
+  "7": {
+    "name": "DEXTER B. MAGSINO",
+    "role": "guard"
+  },
+  "8": {
+    "name": "REZEL B. CANAPIT",
     "role": "guard"
   },
   "11": {
