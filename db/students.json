@@ -983,5 +983,11 @@
     "year": "4th Year",
     "fingerId": 174,
     "role": "student"
+  },
+  {
+    "name": "MARKO",
+    "year": "1st Year",
+    "fingerId": 200,
+    "role": "student"
   }
 ]
