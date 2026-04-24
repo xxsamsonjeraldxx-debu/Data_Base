@@ -3,5 +3,10 @@
     "name": "kwgksdhakd",
     "fingerId": 14,
     "role": "utility"
+  },
+  {
+    "name": "mecha",
+    "fingerId": 11,
+    "role": "utility"
   }
 ]
