@@ -13,5 +13,10 @@
     "name": "REZEL B. CANAPIT",
     "fingerId": 8,
     "role": "guard"
+  },
+  {
+    "name": "gabo",
+    "fingerId": 9,
+    "role": "guard"
   }
 ]
